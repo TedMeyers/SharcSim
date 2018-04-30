@@ -10,7 +10,15 @@
  If this board is not available, a standard Leonardo
  (or Uno) with a SD shield could be used (with some minor
  code modifications).
-  
+ 
+ BUILDING:
+ ---------------------------------------------------------
+ You will need the Pololu AStar32U4 library.  This can
+ be downloaded at:
+ * https://github.com/pololu/a-star-32u4-arduino-library
+ 
+ Follow the instructions for arduino library installation.
+ 
  USAGE:
  ---------------------------------------------------------
  * Copy the message file to the SD card and name it "test.txt"
